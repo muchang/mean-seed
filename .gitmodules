@@ -1,0 +1,3 @@
+[submodule "apps/firstApp"]
+	path = apps/firstApp
+	url = https://github.com/muchang/mean-seed-app.git
