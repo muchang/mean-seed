@@ -1,0 +1,14 @@
+{
+  "name": "mean-seed",
+  "description": "A starter project for MEAN stack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/muchang/mean-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0"
+  }
+}
